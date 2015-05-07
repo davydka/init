@@ -14,6 +14,6 @@ First steps are to checkout the boilerplate and link it to your own git repo.
 You've now checked out the boilerplate and linked it to your own repo. You can now begin local development.
 
 * Make sure gulp is installed globally: `npm install gulp -g`
-* Install server side dependancies: `npm install`
+* Install server side dependencies: `npm install`
 * Install front end libraries/frameworks: `bower install`
 * Run the server for local development: `gulp serve` or just `gulp`
